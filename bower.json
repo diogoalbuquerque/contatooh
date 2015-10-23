@@ -1,0 +1,14 @@
+{
+  "name": "contatooh",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Diogo Albuquerque <diogo.martins.albuquerque@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/diogoalbuquerque/contatooh",
+  "moduleType": [],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
